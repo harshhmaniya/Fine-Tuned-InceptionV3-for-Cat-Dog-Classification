@@ -6,14 +6,14 @@ This project demonstrates transfer learning for classifying cat and dog images u
 
 ## 📑 Table of Contents
 
-1. [Overview](#overview)
-2. [Setup & Usage](#setup--usage)
-3. [Dataset & Preprocessing](#dataset--preprocessing)
-4. [Model & Training](#model--training)
-5. [Evaluation](#evaluation)
-6. [Making Predictions](#making-predictions)
-7. [License](#license)
-8. [Connect with Me](#connect-with-me)
+1. [Overview](#-overview)
+2. [Setup & Usage](#-setup--usage)
+3. [Dataset & Preprocessing](#-dataset--preprocessing)
+4. [Model & Training](#-model--training)
+5. [Evaluation](#-evaluation)
+6. [Making Predictions](#-making-predictions)
+7. [License](#-license)
+8. [Connect with Me](#-connect-with-me)
 
 ---
 
